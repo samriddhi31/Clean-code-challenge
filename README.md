@@ -1,2 +1,6 @@
-# helloworld
-just a repository
+#include<stdio.h>
+int main()
+{
+  printf("HELLO WORLD!");
+  RETURN 0;
+}
